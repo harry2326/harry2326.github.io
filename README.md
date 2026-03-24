@@ -16,10 +16,10 @@ I am particularly interested in **Robot cognition, robot perception,  autonomous
 
 ---
 
-## 🔥 Featured Project
+##  Featuring All Of My Projects
 
-## 🤖 5-Axis Robotic Arm
-
+##  5-Axis Robotic Arm
+<img src="https://drive.google.com/file/d/1HiCOfH0mB4XDus_oR0BBPSFncly3jSFs/view?usp=sharing" width="400">
 **Overview:**
 Designed and built a 5-axis robotic arm integrating mechanical systems, embedded control, and kinematics for precise motion.
 
@@ -43,7 +43,7 @@ Designed and built a 5-axis robotic arm integrating mechanical systems, embedded
 
 ---
 
-## 🚗 Computer Vision Projects
+##  Computer Vision Projects
 
 ### 🔹 Lane Detection (Advanced)
 
