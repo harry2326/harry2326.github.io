@@ -48,7 +48,7 @@ Designed and built a 5-axis robotic arm integrating mechanical systems, embedded
 ##  Computer Vision Projects
 
 ### 🔹 Lane Detection (Advanced)
-
+<img src="output_lane_detection.gif" width="500">
 **Techniques:**
 
 * Camera calibration
