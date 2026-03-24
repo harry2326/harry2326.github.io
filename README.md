@@ -1,6 +1,6 @@
 # Harpreet Singh Munday
 
-**Robotics | Artificial Intelligence | Computer Vision**
+#### Robotics | Artificial Intelligence | Computer Vision
 
 📍 Punjab, India
 📧 [harpreetsinghmunday55@gmail.com](mailto:harpreetsinghmunday55@gmail.com)
