@@ -65,7 +65,7 @@ Explanation_Video:[DETAILED_Explanation](https://drive.google.com/drive/folders/
 ---
 
 ### 🔹 Lane Detection (Basic - Classical CV)
-
+<img src="new_video.gif" width="500">
 **Pipeline:**
 
 * RGB → Grayscale
@@ -79,7 +79,7 @@ Explanation_Video:[DETAILED_Explanation](https://drive.google.com/drive/folders/
 
 ---
 
-## 🧠 Machine Learning & Deep Learning
+##  Machine Learning & Deep Learning
 
 ### 🔹 Perceptron from Scratch
 
