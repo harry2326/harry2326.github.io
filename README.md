@@ -3,7 +3,7 @@
 #### Robotics | Artificial Intelligence | Computer Vision
 
 📍 Punjab, India
-📧 [harpreetsinghmunday55@gmail.com](mailto:harpreetsinghmunday55@gmail.com)
+📧 [harpreetsinghmunday55@gmail.com](mailto:harpreetsinghmunday55@gmail.com) 
 🔗 GitHub: https://github.com/harry2326
 
 ---
