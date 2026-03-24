@@ -18,34 +18,87 @@ I am particularly interested in **Robot cognition, robot perception,  autonomous
 
 ## 🔥 Featured Project
 
-## 🤖 5-Axis Robotic Arm (Hardware + Control System)
+## 🤖 5-Axis Robotic Arm (Custom Design | Kinematics | Embedded Control)
 
-**Overview:**
-Designed and developed a 5-axis robotic arm integrating mechanical transmission systems with embedded control and a custom software interface.
+### 🎯 Overview
 
-**Key Components:**
+This project presents a fully functional **5-axis robotic arm** designed and built from scratch using custom 3D-printed components and multi-stage transmission systems. The system integrates **mechanical design, embedded control, and kinematic modeling** to achieve precise end-effector positioning.
 
-* Harmonic gearbox (precision motion control)
-* Planetary gear system
-* GT2 pulley transmission
-* Stepper motors with TB6600 drivers
-* Arduino-based embedded control
-* Python GUI for real-time control
+The robotic arm is controlled using an **Arduino UNO**, with a **Python-based GUI** implementing forward and inverse kinematics for intuitive control and real-time visualization.
 
-**Key Contributions:**
+### 🧠 Key Contributions
 
-* Designed mechanical transmission for torque amplification and precision
-* Implemented motor control logic using Arduino
-* Developed Python GUI for user interaction and motion commands
-* Integrated hardware and software into a functional robotic system
+* Designed complete mechanical structure with multi-stage gear reduction
+* Implemented **forward and inverse kinematics** for Cartesian control
+* Developed interactive GUI for real-time control and visualization
+* Integrated embedded system with serial communication protocol
+* Built an end-to-end robotics system combining **hardware + software + control**
 
-🎥 **Demo:**
-[Watch Robotic Arm in Action](YOUR_YOUTUBE_LINK)
+### ⚙️ Mechanical Design
 
-📂 **Repository:**
-https://github.com/yourusername/robotic-arm
+* Custom **3D-printed body structure and reducers**
+* **Cycloidal gearbox (19:1)** for high precision and torque
+* **GT2 belt transmission (4:1)**
+* **Spur gear stage (2:1)**
+* **Gear rod transmission (1:1)**
+* **11:1 planetary gearbox** on base joint
+
+👉 Multi-stage reduction enabled improved torque output and smoother motion control.
+
+### 🔩 Actuation System
+
+* **J1:** NEMA23 motor (10 kg·cm torque) + 11:1 planetary gearbox
+* **J2–J6:** NEMA17 motors (5.6 kg·cm torque each)
+
+### 🔌 Electronics & Control Hardware
+
+* Arduino UNO (main controller)
+* 6 × TB6600 stepper motor drivers
+* Individual 12V power supplies
+* USB serial communication
+
+### 💻 Software Architecture
+
+**GUI & Control Layer:**
+
+* Tkinter + ttkbootstrap (user interface)
+* IKPy (forward & inverse kinematics)
+* Matplotlib (3D pose visualization)
+* OpenCV (startup animation)
+
+**Control Pipeline:**
+
+1. User input (joint / Cartesian)
+2. IK computation (if Cartesian mode)
+3. Angle generation
+4. Serial transmission to Arduino
+5. Motor actuation via TB6600 drivers
+
+### 🚀 Features
+
+* Manual joint control (**−180° to +180° per joint**)
+* Adjustable speed and acceleration
+* Single-run and loop-run execution modes
+* Real-time forward kinematics visualization
+* Cartesian positioning using inverse kinematics (**X, Y, Z control**)
+* Serial-based communication protocol
+
+### 🧪 Kinematics & Modeling
+
+* Implemented forward kinematics for pose estimation
+* Applied inverse kinematics using IKPy
+* Initial URDF-based modeling attempted; later replaced with **Matplotlib-based pose visualization** due to integration constraints
+
+### 🎥 Demonstration
+
+👉 [Watch Robotic Arm Demo](https://drive.google.com/drive/folders/15EBxHBVPbexHDDdc4UJPTtGjX7ANmkdU?usp=sharing)
+
+### 📂 Project Repository
+
+👉 [DETAILED_GIT_REPO](https://github.com/harry2326/5-Axis-Robotic-Arm-.git)
 
 ---
+
 
 ## 🚗 Computer Vision Projects
 
