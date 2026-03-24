@@ -45,22 +45,6 @@ Designed and built a 5-axis robotic arm integrating mechanical systems, embedded
 
 ## 🚗 Computer Vision Projects
 
-### 🔹 Lane Detection (Basic - Classical CV)
-
-**Pipeline:**
-
-* RGB → Grayscale
-* Gaussian Blur
-* Canny Edge Detection
-* Hough Line Transform
-
-🎥 Demo: [Watch output](https://drive.google.com/file/d/1Rk29r0IqFkadmuL8wZZcGJuSRmsnC2vz/view?usp=sharing)
-
-📂 Repo and explanation at:
-https://github.com/harry2326/Basic_Lane_detection.git
-
----
-
 ### 🔹 Lane Detection (Advanced)
 
 **Techniques:**
@@ -72,9 +56,24 @@ https://github.com/harry2326/Basic_Lane_detection.git
 * Polynomial curve fitting
 
 🎥 Demo: [Watch output](https://drive.google.com/file/d/1A0mEpByEhmucVunG-XNxy7urO6e3T9uC/view?usp=sharing)
+📂 Repo: [DETAILED_GIT_REPO](https://github.com/harry2326/Advance_Lane_Detection.git)
+Explanation_Video:[DETAILED_Explanation](https://drive.google.com/drive/folders/1gmGoDvOJ-CsIo6gUKX71LfIXFV2jvEOD?usp=sharing)
 
-📂 Repo and explanation at:
-https://github.com/harry2326/Advance_Lane_Detection.git
+
+---
+
+### 🔹 Lane Detection (Basic - Classical CV)
+
+**Pipeline:**
+
+* RGB → Grayscale
+* Gaussian Blur
+* Canny Edge Detection
+* Hough Line Transform
+
+🎥 Demo: [Watch output](https://drive.google.com/file/d/1Rk29r0IqFkadmuL8wZZcGJuSRmsnC2vz/view?usp=sharing)
+📂 Repo: [DETAILED_GIT_REPO](https://github.com/harry2326/Basic_Lane_detection.git)
+Explanation_Video:[DETAILED_Explanation](https://drive.google.com/drive/folders/1mM6702gmuPLONdZt8-PhSMzvr-EIoDAw?usp=sharing)
 
 ---
 
@@ -84,9 +83,8 @@ https://github.com/harry2326/Advance_Lane_Detection.git
 
 * Implemented binary classifier without libraries
 * Understood weight updates and convergence behavior
-
-📂 Repo:
-https://github.com/yourusername/perceptron-from-scratch
+  
+📂 Repo: [DETAILED_GIT_REPO](https://github.com/harry2326/Training_Perceptron_From_Scratch.git)
 
 ---
 
@@ -95,52 +93,39 @@ https://github.com/yourusername/perceptron-from-scratch
 * Built feedforward neural network from scratch
 * Implemented forward + backpropagation
 * Trained on MNIST dataset
-
-📂 Repo:
-https://github.com/yourusername/mnist-nn
+  
+📂 Repo: [DETAILED_GIT_REPO](https://github.com/harry2326/Neural_Network_From_scratch.git)
 
 ---
 
-### 🔹 CNN (LeNet - CIFAR-10)
+### 🔹 CNN (LeNet - CIFAR-10) and  Traffic Sign Classification (CNN)
 
 * Implemented CNN architecture from scratch
 * Trained on CIFAR-10 dataset
 * Explored feature extraction and convolution layers
-
-📂 Repo:
-https://github.com/yourusername/cnn-cifar10
-
----
-
-### 🔹 Traffic Sign Classification (CNN)
-
-**Highlights:**
-
 * Trained CNN for multi-class classification
 * Applied preprocessing and normalization
 * Achieved strong classification performance
 
-🎥 **Output / Demo:**
-(Add link)
 
-📂 Repo:
-https://github.com/yourusername/traffic-sign-classification
+📂 Repo: [DETAILED_GIT_REPO](https://github.com/harry2326/CNN_from_scratch.git)
+
 
 ---
 
 ## 🛠 Technical Skills
 
 **Programming:**
-Python, C/C++, Arduino
+Python, C/C++, 
 
 **Robotics & Hardware:**
-Embedded Systems, Motor Drivers (TB6600), Mechanical Design, Gear Systems
+Embedded Systems(Arduino, ESP, Raspberry-Pie), Motor Drivers (TB6600), Mechanical Design, Gear Systems, harmonic actuators
 
 **AI / ML:**
-Neural Networks, CNNs, Computer Vision
+Neural Networks, CNNs, Computer Vision algorithms
 
 **Tools & Frameworks:**
-OpenCV, NumPy, TensorFlow (basic), Jupyter Notebook
+ROS2, OpenCV, NumPy, TensorFlow (basic), Jupyter Notebook
 
 **Systems:**
 Linux (WSL2), Git
@@ -149,8 +134,9 @@ Linux (WSL2), Git
 
 ## 🎯 Research Interests
 
-* Autonomous Robotics
+* Robot Cognition
 * Robot Perception
+* Autonomous Robotics
 * Computer Vision for Navigation
 * Learning-based Control Systems
-* H
+  
