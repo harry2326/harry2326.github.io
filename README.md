@@ -45,9 +45,8 @@ Designed and built a 5-axis robotic arm integrating mechanical systems, embedded
 
 ---
 
-##  Computer Vision Projects
 
-### 🔹 Lane Detection (Advanced)
+###  Lane Detection (Advanced)
 <img src="output_lane_detection.gif" width="500">
 **Techniques:**
 
@@ -64,7 +63,7 @@ Explanation_Video:[DETAILED_Explanation](https://drive.google.com/drive/folders/
 
 ---
 
-### 🔹 Lane Detection (Basic - Classical CV)
+###  Lane Detection (Basic - Classical CV)
 <img src="new_video.gif" width="500">
 **Pipeline:**
 
@@ -81,7 +80,7 @@ Explanation_Video:[DETAILED_Explanation](https://drive.google.com/drive/folders/
 
 ##  Machine Learning & Deep Learning
 
-### 🔹 Perceptron from Scratch
+###  Perceptron from Scratch
 
 * Implemented binary classifier without libraries
 * Understood weight updates and convergence behavior
@@ -90,7 +89,7 @@ Explanation_Video:[DETAILED_Explanation](https://drive.google.com/drive/folders/
 
 ---
 
-### 🔹 Neural Network from Scratch (MNIST)
+###  Neural Network from Scratch (MNIST)
 
 * Built feedforward neural network from scratch
 * Implemented forward + backpropagation
@@ -100,7 +99,7 @@ Explanation_Video:[DETAILED_Explanation](https://drive.google.com/drive/folders/
 
 ---
 
-### 🔹 CNN (LeNet - CIFAR-10) and  Traffic Sign Classification (CNN)
+###  CNN (LeNet - CIFAR-10) and  Traffic Sign Classification (CNN)
 
 * Implemented CNN architecture from scratch
 * Trained on CIFAR-10 dataset
