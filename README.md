@@ -19,7 +19,7 @@ I am particularly interested in **Robot cognition, robot perception,  autonomous
 ##  Featuring All Of My Projects
 
 ##  5-Axis Robotic Arm
-<img src="1717083341168.jpg" width="400">
+
 **Overview:**
 Designed and built a 5-axis robotic arm integrating mechanical systems, embedded control, and kinematics for precise motion.
 
@@ -40,6 +40,8 @@ Designed and built a 5-axis robotic arm integrating mechanical systems, embedded
 
 🎥 Demo: [Watch Robotic Arm Demo](https://drive.google.com/drive/folders/15EBxHBVPbexHDDdc4UJPTtGjX7ANmkdU?usp=sharing)
 📂 Repo: [DETAILED_GIT_REPO](https://github.com/harry2326/5-Axis-Robotic-Arm-.git)
+
+<img src="1717083341168.jpg" width="400">
 
 ---
 
