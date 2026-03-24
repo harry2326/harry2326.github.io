@@ -54,11 +54,10 @@ Designed and built a 5-axis robotic arm integrating mechanical systems, embedded
 * Canny Edge Detection
 * Hough Line Transform
 
-🎥 **Output:**
-(Add GIF here)
+🎥 Demo: [Watch output](https://drive.google.com/file/d/1Rk29r0IqFkadmuL8wZZcGJuSRmsnC2vz/view?usp=sharing)
 
-📂 Repo:
-https://github.com/yourusername/lane-detection-basic
+📂 Repo and explanation at:
+https://github.com/harry2326/Basic_Lane_detection.git
 
 ---
 
@@ -72,11 +71,10 @@ https://github.com/yourusername/lane-detection-basic
 * Histogram-based lane detection
 * Polynomial curve fitting
 
-🎥 **Output:**
-(Add GIF or video link)
+🎥 Demo: [Watch output](https://drive.google.com/file/d/1A0mEpByEhmucVunG-XNxy7urO6e3T9uC/view?usp=sharing)
 
-📂 Repo:
-https://github.com/yourusername/lane-detection-advanced
+📂 Repo and explanation at:
+https://github.com/harry2326/Advance_Lane_Detection.git
 
 ---
 
