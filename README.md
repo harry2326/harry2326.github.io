@@ -3,16 +3,17 @@
 #### Robotics | Artificial Intelligence | Computer Vision
 
 📍 Punjab, India
-📧 [harpreetsinghmunday55@gmail.com](mailto:harpreetsinghmunday55@gmail.com) 
+📧 [harpreetsinghmunday782@gmail.co](mailto:harpreetsinghmunday782@gmail.com) 
 🔗 GitHub: https://github.com/harry2326
+[I Love teaching complex topics, boiling them down to comprehensible chunks](https://drive.google.com/drive/folders/167A0UVIo4ZjkFDhkeNSvnwRC-Acaaqx_?usp=sharing)
+
 
 ---
 
 ## 🎯 Profile
 
-I am a Robotics and AI enthusiast with hands-on experience in **computer vision/deep learning, embedded systems, and mechanical design**. My work focuses on building **end-to-end intelligent systems**, from hardware design to perception and control.
-
-I am particularly interested in **Robot cognition, robot perception,  autonomous systems, and learning-based control**, and I aim to pursue advanced study in these areas.
+I’m a Robotics and AI enthusiast with hands-on experience in computer vision, deep learning, embedded systems, and mechanical design, focused on building end-to-end intelligent systems.
+I’m particularly interested in robot cognition, perception, autonomous systems, and learning-based control—and I enjoy building the “brain” that controls robots.
 
 ---
 
