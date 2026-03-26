@@ -4,8 +4,8 @@
 
 📍 Punjab, India
 📧 [harpreetsinghmunday782@gmail.co](mailto:harpreetsinghmunday782@gmail.com) 
-🔗 GitHub: https://github.com/harry2326
-[I Love teaching complex topics, boiling them down to comprehensible chunks](https://drive.google.com/drive/folders/167A0UVIo4ZjkFDhkeNSvnwRC-Acaaqx_?usp=sharing)
+🔗 [GitHub](https://github.com/harry2326)
+
 
 
 ---
