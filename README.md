@@ -41,7 +41,6 @@ Designed and built a 5-axis robotic arm integrating mechanical systems, embedded
 * Serial communication between GUI and hardware
 
 🎥 Demo: [Watch Robotic Arm Demo](https://drive.google.com/drive/folders/15EBxHBVPbexHDDdc4UJPTtGjX7ANmkdU?usp=sharing)
-
 📂 Repo: [DETAILED_GIT_REPO](https://github.com/harry2326/5-Axis-Robotic-Arm-.git)
 
 
