@@ -21,7 +21,7 @@ I’m particularly interested in robot cognition, perception, autonomous systems
 
 **Overview:**
 Designed and built a 5-axis robotic arm integrating mechanical systems, embedded control, and kinematics for precise motion.
-<img src="1717083341168.jpg" width="400" height="800">
+<img src="1717083341168.jpg" width="400">
   
 **Key Highlights:**
 
