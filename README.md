@@ -1,8 +1,8 @@
 ### Robotics | Artificial Intelligence | Computer Vision
 
-📍 Punjab, India
-📧 [harpreetsinghmunday782@gmail.co](mailto:harpreetsinghmunday782@gmail.com) 
-🔗 [GitHub](https://github.com/harry2326)
+📍 Punjab, India  
+📧 [harpreetsinghmunday782@gmail.co](mailto:harpreetsinghmunday782@gmail.com)  
+🔗 [GitHub](https://github.com/harry2326)  
 
 
 
@@ -40,7 +40,7 @@ Designed and built a 5-axis robotic arm integrating mechanical systems, embedded
 * Speed & motion control with interactive GUI
 * Serial communication between GUI and hardware
 
-🎥 Demo: [Watch Robotic Arm Demo](https://drive.google.com/drive/folders/15EBxHBVPbexHDDdc4UJPTtGjX7ANmkdU?usp=sharing)
+🎥 Demo: [Watch Robotic Arm Demo](https://drive.google.com/drive/folders/15EBxHBVPbexHDDdc4UJPTtGjX7ANmkdU?usp=sharing)  
 📂 Repo: [DETAILED_GIT_REPO](https://github.com/harry2326/5-Axis-Robotic-Arm-.git)
 
 
@@ -58,9 +58,8 @@ Designed and built a 5-axis robotic arm integrating mechanical systems, embedded
 * Histogram-based lane detection
 * Polynomial curve fitting
 
-🎥 Demo: [Watch output](https://drive.google.com/file/d/1A0mEpByEhmucVunG-XNxy7urO6e3T9uC/view?usp=sharing)
-
-📂 Repo: [DETAILED_GIT_REPO](https://github.com/harry2326/Advance_Lane_Detection.git)
+🎥 Demo: [Watch output](https://drive.google.com/file/d/1A0mEpByEhmucVunG-XNxy7urO6e3T9uC/view?usp=sharing)  
+📂 Repo: [DETAILED_GIT_REPO](https://github.com/harry2326/Advance_Lane_Detection.git)  
 Explanation_Video:[DETAILED_Explanation](https://drive.google.com/drive/folders/1gmGoDvOJ-CsIo6gUKX71LfIXFV2jvEOD?usp=sharing)
 
 
@@ -76,9 +75,8 @@ Explanation_Video:[DETAILED_Explanation](https://drive.google.com/drive/folders/
 * Canny Edge Detection
 * Hough Line Transform
 
-🎥 Demo: [Watch output](https://drive.google.com/file/d/1Rk29r0IqFkadmuL8wZZcGJuSRmsnC2vz/view?usp=sharing)
-
-📂 Repo: [DETAILED_GIT_REPO](https://github.com/harry2326/Basic_Lane_detection.git)
+🎥 Demo: [Watch output](https://drive.google.com/file/d/1Rk29r0IqFkadmuL8wZZcGJuSRmsnC2vz/view?usp=sharing)  
+📂 Repo: [DETAILED_GIT_REPO](https://github.com/harry2326/Basic_Lane_detection.git)  
 Explanation_Video:[DETAILED_Explanation](https://drive.google.com/drive/folders/1mM6702gmuPLONdZt8-PhSMzvr-EIoDAw?usp=sharing)
 
 ---
